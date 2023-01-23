@@ -3,4 +3,9 @@
 Media Technology kmutt 
 Media art kmutt
 
+<<<<<<< HEAD
 Manu 2 - 1 Mancity
+=======
+
+Hi!!
+>>>>>>> 33a7400a321d5979d7280ffcec7d840da9b6505c
